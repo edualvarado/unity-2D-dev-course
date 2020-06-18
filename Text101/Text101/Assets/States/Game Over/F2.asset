@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8418e5a0a92c13248b8cc6663cf441ea, type: 3}
+  m_Name: F2
+  m_EditorClassIdentifier: 
+  storyText: 'Before you open the socket for the battery, a dark blanket hovers over
+    the platform. The can feel your presence. In a moment, the creatures appear quickly,
+    covering you with an elongated shadow. As you look up, you''re drowned out by
+    a scream. Everything happens to be darkness.
+
+
+    The communicator falls to
+    the ground along with the possibility of running away.
+
+
+    You lost...Want
+    to try again?
+
+    1. Yes, this time I shall take glory.
+
+    2. No, I''m going
+    to go sulk for a while.'
+  nextStates:
+  - {fileID: 11400000, guid: e7b01462550128543bfb90e01bee195a, type: 2}
+  - {fileID: 11400000, guid: b2cdd4a6403be6149a5596d9899fb1ad, type: 2}

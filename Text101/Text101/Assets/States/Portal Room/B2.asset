@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8418e5a0a92c13248b8cc6663cf441ea, type: 3}
+  m_Name: B2
+  m_EditorClassIdentifier: 
+  storyText: 'You run away but it''s too late. The creatures, which at that moment
+    appeared in the portal room, have already seen you hiding behind the platform,
+    and are coming directly to you.
+
+
+    Among your arsenal you have no ammunition,
+    only a light grenade that could be used to distract them and head into the portal
+    to fix it and make it run.
+
+
+    What should I do?
+
+
+    1. Rushing your time
+    and throwing the grenade at the last moment. Then, run to the portal and fix
+    it.
+
+    2. Close your eyes, just as you were taught at the knight''s school
+    during your training.'
+  nextStates:
+  - {fileID: 11400000, guid: 0dd6885bb65191f45af0ee4e1824505f, type: 2}
+  - {fileID: 11400000, guid: 02276c33cc9dae6428c265ed7ecac0c8, type: 2}

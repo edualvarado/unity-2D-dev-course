@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8418e5a0a92c13248b8cc6663cf441ea, type: 3}
+  m_Name: B1
+  m_EditorClassIdentifier: 
+  storyText: 'After changing the collector, you start the return sequence. Beautiful
+    lights that are transformed into multi-colored refractions start to emerge in
+    the contour of the portal.
+
+
+    Behind you, through the passage to the portal
+    room, four creatures emerge and are thrown quickly towards your back.
+
+
+    What
+    should I do?
+
+
+    1. In a quick backward move, throw a light grenade at the
+    beings and try to escape running away.
+
+    2. Close your eyes, just as you were
+    taught at the knight''s school during your training.'
+  nextStates:
+  - {fileID: 11400000, guid: ca6499923c0d30341b15bbf005c48d11, type: 2}
+  - {fileID: 11400000, guid: 0dd6885bb65191f45af0ee4e1824505f, type: 2}

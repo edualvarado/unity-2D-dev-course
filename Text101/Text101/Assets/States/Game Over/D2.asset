@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8418e5a0a92c13248b8cc6663cf441ea, type: 3}
+  m_Name: D2
+  m_EditorClassIdentifier: 
+  storyText: 'When you open your eyes and observe back, you see how three creatures
+    turn their backs on you, but not one of them. When he looks firmly into your
+    eyes you know that your time has come. An image of terror passes through your
+    head and you deeply regret your fate.
+
+
+    It''s coming towards you, making
+    you close your eyes forever.
+
+
+    You lost...Want to try again?
+
+    1. Yes,
+    this time I shall take glory.
+
+    2. No, I''m going to go sulk for a while.'
+  nextStates:
+  - {fileID: 11400000, guid: e7b01462550128543bfb90e01bee195a, type: 2}
+  - {fileID: 11400000, guid: b2cdd4a6403be6149a5596d9899fb1ad, type: 2}

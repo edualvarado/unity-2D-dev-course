@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8418e5a0a92c13248b8cc6663cf441ea, type: 3}
+  m_Name: G1
+  m_EditorClassIdentifier: 
+  storyText: 'You close your eyes. You do not see or feel anything, only an odourless
+    and warm breath on your face, besides their presence, as if they exert a  constant
+    and mystical pressure on your body. They are there, close to you, being nothing
+    that you felt before.
+
+
+    Gradually, you notice how the pressure starts to
+    fade, slowly and calmly. You believe that they are getting away.
+
+
+    What should
+    I do?
+
+
+    1. Open your eyes and go to fix the portal. The creatures seem to
+    be gone and there is no time to lose.
+
+    2. Keep waiting with your eyes closed
+    a little bit more.'
+  nextStates:
+  - {fileID: 11400000, guid: c0219a5e6a1b1984b97b28ff7a13224c, type: 2}
+  - {fileID: 11400000, guid: d0f04ce3d0378d746995c300829952f3, type: 2}
