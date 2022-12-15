@@ -1,4 +1,4 @@
-# Complete Unity 2D Developer Course | Udemy
+# Complete C# Unity Developer 2D: Learn to Code Making Games | Udemy
 The following content belongs to the Udemy course [Complete C# Unity Developer 2D: Learn to Code Making Games](https://www.udemy.com/course/unitycourse/).
 
 ## Introduction
